@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.modal-body {
+	display: flex;
+	flex-direction: column;
+	text-align:center;
+}
+
+.modal-body .div {
+	display: flex;
+}
+
+.mdl-data-table td {
+	text-align: left;
+}
+
+.data {
+	display: flex;
+	justify-content: space-between;
+}
+
+form {
+	margin:auto;
+}
